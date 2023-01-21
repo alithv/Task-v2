@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.2.3",
+    "leaflet": "^1.9.3",
+    "vue2-leaflet": "^2.7.1"
+  }
+}
